@@ -4,6 +4,9 @@ This folder contains Jupyter (python) notebooks and links to Evernote notes with
 
 <br>
 #### Contents:
+
 - Test Alignment: alignment of demultiplexed but unfiltered WGS sequences from Near2005 and Zhem16wB to the Atlantic cod genome. Completed for comparison of Bowtie2 aligner and BWA-MEM aligner. 
+<br>
 - [Sampling Site Summary](http://www.evernote.com/l/AlUifEqoghRMiYD2nwgn1JdxwVdVS3aElTg/): summary of samples submitted for WGS. Links to Evernote.
+<br>
 - [2017 Lab work summary](http://www.evernote.com/l/AlV4BISEzB1Eebu9ndAiR-Qnj1omSKfXZYo/): summary of laboratory work completed by Dan Drinan. Links to Evernote.
